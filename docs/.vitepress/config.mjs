@@ -4,13 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "A Newbie-friendly Vitepress Template Project",
   description: "It's a vitepress template project for newbie 👶.",
+  base: "/17-blog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
-
     sidebar: [
       {
         text: 'Examples',
