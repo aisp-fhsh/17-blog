@@ -8,8 +8,8 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: cdxctf wrteup
+      link: /CDXCTF第11題
     - theme: alt
       text: API Examples
       link: /api-examples
